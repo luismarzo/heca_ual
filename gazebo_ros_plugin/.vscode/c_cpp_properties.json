@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/luis/ws_positioner/devel/include",
+                    "/home/luis/catkin_ws/devel/include",
+                    "/opt/ros/kinetic/include",
+                    "/home/luis/catkin_ws/src/grvc-utils/argument_parser/include",
+                    "/home/luis/catkin_ws/src/grvc-utils/gazebo_animator/include",
+                    "/home/luis/catkin_ws/src/gazebo_ros_link_attacher/include",
+                    "/home/luis/catkin_ws/src/gazebo_ros_plugin/include",
+                    "/home/luis/catkin_ws/src/grvc-utils/handy_tools/include",
+                    "/home/luis/catkin_ws/src/plugin/include",
+                    "/home/luis/catkin_ws/src/service_tutorial/include",
+                    "/home/luis/catkin_ws/src/storm_gazebo_ros_magnet/include",
+                    "/home/luis/catkin_ws/src/grvc-ual/uav_abstraction_layer/include",
+                    "/usr/include"
+                ]
+            },
+            "includePath": [
+                "/home/luis/ws_positioner/devel/include",
+                "/home/luis/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/luis/catkin_ws/src/grvc-utils/argument_parser/include",
+                "/home/luis/catkin_ws/src/grvc-utils/gazebo_animator/include",
+                "/home/luis/catkin_ws/src/gazebo_ros_link_attacher/include",
+                "/home/luis/catkin_ws/src/gazebo_ros_plugin/include",
+                "/home/luis/catkin_ws/src/grvc-utils/handy_tools/include",
+                "/home/luis/catkin_ws/src/plugin/include",
+                "/home/luis/catkin_ws/src/service_tutorial/include",
+                "/home/luis/catkin_ws/src/storm_gazebo_ros_magnet/include",
+                "/home/luis/catkin_ws/src/grvc-ual/uav_abstraction_layer/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 3
+}

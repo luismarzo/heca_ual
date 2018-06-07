@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/luis/catkin_ws/src/grvc-ual/px4_bringup/build/devel/setup.sh

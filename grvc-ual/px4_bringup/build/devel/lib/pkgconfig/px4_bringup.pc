@@ -1,0 +1,8 @@
+prefix=/home/luis/catkin_ws/src/grvc-ual/px4_bringup/build/devel
+
+Name: px4_bringup
+Description: Description of px4_bringup
+Version: 2.0.0
+Cflags: 
+Libs: -L/home/luis/catkin_ws/src/grvc-ual/px4_bringup/build/devel/lib 
+Requires: 
